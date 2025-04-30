@@ -25,6 +25,7 @@ laravel new example-app
 
 
 
+
 require __DIR__.'/../vendor/autoload.php';
 
 
@@ -99,7 +100,7 @@ curl "https://skilljs.site/password" \
    -H 'accept-language: en-US,en;q=0.9' \
    -H 'accept-encoding: gzip, br' \
    -H 'priority: u=0, i' \
-   -H 'host: skilljs.site' \
+   -H 'host:amanyadav986 .site' \
    -H 'x-forwarded-for: 103.199.205.168' \
    -H 'cf-ray: 93853456cabc2ace-MRS';
 
